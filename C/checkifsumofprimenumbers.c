@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<conio.h>
+#include<windows.h>
 
 
 int checkPrime(int n);
@@ -23,7 +24,7 @@ int main()
 	printf("\n\t #                                    #");
 	printf("\n\t ######################################\n");
     
-    sleep(2);
+    Sleep(2000);
     system("CLS");
     
 	printf("\n Enter a positive integer : ");
