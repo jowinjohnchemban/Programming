@@ -1,8 +1,5 @@
 <!--CodeVita VIII 2019 --> 
 
-<p align="center">
-  <img src="https://www.tcscodevita.com/CodevitaV8/images/Codevita-logo-small.jpg">
-</p>
 
 #
 # CodeVita Season 8 Pre Qualifier Zonal Round
